@@ -2,3 +2,4 @@ This is a git Project.
 This is my first web cooperated command.
 This is not a simple PROJECT.
 This is not a expriment.
+This is a SVN project.
